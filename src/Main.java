@@ -1,6 +1,3 @@
-// Name: Caner Yalçınkaya
-// ID: 2024400273
-
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.Random;
